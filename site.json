@@ -1,0 +1,134 @@
+{
+  "name": "Geqi Tie",
+  "position": "M.Eng. Candidate · Biomanufacturing",
+  "affiliation": "McGill University",
+  "email": "geqi.tie@mail.mcgill.ca",
+  "language": "en",
+  "description": "Geqi Tie, M.Eng. candidate in Biological & Biomedical Engineering (Biomanufacturing) at McGill University. Laboratory research, molecular assays, process troubleshooting and biologics manufacturing interests.",
+  "section_order": [
+    "about",
+    "education",
+    "experience",
+    "projects",
+    "skills",
+    "service"
+  ],
+  "about": [
+    "I am an M.Eng. candidate in Biological & Biomedical Engineering (Biomanufacturing) at McGill University in Montreal. My undergraduate studies provided a foundation in molecular biology and relevant laboratory techniques. I view my graduate training as a bridge between this scientific foundation and industrial production, developing my understanding of how biological knowledge is translated into reliable manufacturing processes.",
+    "I bring a detail-oriented approach to protocol writing, data analysis and process troubleshooting. My industrial internship interests include manufacturing science and technology (MSAT), process validation, technology transfer and production roles in monoclonal antibody (mAb), mRNA vaccine and therapeutic protein manufacturing."
+  ],
+  "education": [
+    {
+      "title": "Master of Engineering, Biological & Biomedical Engineering (Biomanufacturing)",
+      "organization": "McGill University · Montreal, QC",
+      "dates": "2026 – Expected 2027",
+      "details": [
+        "Relevant coursework: cGMP & Regulation, Process Analytical Technologies, Cell Culture Engineering, Metabolic Engineering, Downstream Processing, Bioprocessing of Vaccines, Biomanufacturing for RNA Biologics, Gene and Cell Therapy Viral Vectors, Imaging and Bioanalytical Instrumentation."
+      ]
+    },
+    {
+      "title": "Bachelor of Science, Cell Systems Biology and Molecular Genetics & Microbiology",
+      "organization": "University of Toronto · Toronto, ON",
+      "dates": "2022 – 2026",
+      "details": [
+        "CGPA: 3.6/4.0 · Winter Dean’s List, 2024–2026."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Modular Multigene Pathway Engineering: DAYS Golden Gate Platform Development",
+      "organization": "Research Student · McGill University · Montreal, QC",
+      "dates": "Oct 2026 – Present",
+      "details": [
+        "Designed a modular Type IIS Golden Gate assembly strategy for the Dual-use Assembly Yeast System (DAYS), enabling multigene pathway construction and optimization for enhanced β-carotene production.",
+        "Developed a four-plasmid, eight-gene pathway design in Saccharomyces cerevisiae, integrating strategies for precursor supply, carotenoid biosynthesis, lipid metabolism and redox balance to improve final product titres.",
+        "Developing a quantitative clone-screening workflow using flow cytometry to identify high-GFP-expressing clones, followed by qPCR to assess genomic integration copy number, targeting more than 56 copies."
+      ],
+      "attachments": [
+        {
+          "label": "Read project proposal (PDF)",
+          "url": "assets/reports/days-project-proposal-geqi-tie.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Investigating Cold-Induced Pausing and Stress Adaptation in Mouse Embryonic Stem Cells",
+      "organization": "Research Student · Lunenfeld-Tanenbaum Research Institute (LTRI) · Toronto, ON",
+      "dates": "Sep 2025 – May 2026",
+      "details": [
+        "Developed an in vitro model of hypothermia-induced pausing in mESCs, targeting the RNA-binding proteins RBM3 and CIRBP identified from proteomic profiling.",
+        "Wrote the experimental protocol for RNAi-mediated knockdown of Cirbp and Rbm3 and optimized effective siRNA concentration by quantifying mRNA and protein levels with RT-qPCR and Western blot.",
+        "Improved live-cell quantification workflows using Incucyte live-cell analysis, refining segmentation parameters and incubation-to-imaging schedules to achieve more reliable cell counts while minimizing culture stress.",
+        "Used GraphPad Prism to normalize and statistically evaluate proliferation data, translating experimental measurements into interpretable growth curves and research conclusions."
+      ],
+      "attachments": [
+        {
+          "label": "Read project report (PDF)",
+          "url": "assets/reports/cold-induced-pausing-report-geqi-tie.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Molecular and Laboratory Support for C. elegans Germline Research",
+      "organization": "Research Volunteer · University of Toronto · Toronto, ON",
+      "dates": "Oct 2024 – Dec 2024",
+      "details": [
+        "Utilized WormBase and existing literature to identify potential RNAi candidate genes involved in the formation of germline herasome amyloid aggregates.",
+        "Maintained C. elegans cultures and passaging, and prepared E. coli food stocks.",
+        "Operated the shared-facility autoclave to sterilize lab glassware on a routine basis, following facility SOPs.",
+        "Extracted and purified protein from selected mutant strains and quantified it by Nanodrop."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Identification of the FKS1 Mutation Conferring Caspofungin Resistance in Yeast",
+      "organization": "University of Toronto · Toronto, ON",
+      "details": [
+        "Prepared and quantified an Illumina sequencing library and filtered 519 variant calls in Galaxy against the parental strain to identify the FKS1 variant, applying quality checks at each step.",
+        "Gained knowledge of next-generation sequencing workflows, library quality control and analysis tools: Qubit, PCR & primer design, bcftools and the UCSC Genome Browser."
+      ]
+    },
+    {
+      "title": "CRISPR-Cas9 Adaptive Immunity in UV-Irradiated Bacteria",
+      "organization": "University of Toronto · Toronto, ON",
+      "details": [
+        "Conducted Streptococcus thermophilus cultivation and phage infection assays, utilizing thermal lysis and spectrophotometric analysis to quantify DNA concentration and purity.",
+        "Performed locus-specific PCR amplification and agarose gel electrophoresis to visually screen and isolate mutant lines with newly acquired spacer arrays.",
+        "Evaluated raw Sanger sequence chromatograms, performing reverse complement transformations and reference genome alignments utilizing BLAST and SnapGene."
+      ]
+    }
+  ],
+  "skills": [
+    "Laboratory skills: mammalian cell maintenance & passaging; C. elegans & yeast culturing; yeast transformation; plasmid design; proliferation assays; DNA/RNA/protein extraction; siRNA transfection; aseptic techniques.",
+    "Analytical methods: RT-qPCR, PCR, colony PCR, flow cytometry, fluorescence quantification, Western blot, Nanodrop & Qubit quantification, gel electrophoresis, live-cell imaging & analysis (Incucyte® SX5 System).",
+    "Documentation & compliance: laboratory protocol writing, methodological improvements, detailed experimental recordkeeping, GMP/cGMP compliance, data integrity principles (ALCOA+).",
+    "Data & software: MATLAB, JMP, ImageLab, GraphPad Prism, NCBI/UCSC/Ensembl Genome Browsers, Benchling, SnapGene, Microsoft Office (Excel, PowerPoint)."
+  ],
+  "service": [
+    {
+      "title": "Recognized Study Group Leader",
+      "organization": "University of Toronto"
+    },
+    {
+      "title": "Second-Year Learning Community Leader",
+      "organization": "University of Toronto",
+      "dates": "Sep 2023 – Sep 2024"
+    },
+    {
+      "title": "New College Orientation Student Leader",
+      "organization": "University of Toronto",
+      "dates": "Jun 2024 – Sep 2024"
+    }
+  ],
+  "theme": "botanical",
+  "background": "mesh",
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/geqi-tie-733807239/"
+    }
+  ],
+  "site_url": "https://geqitie.github.io/"
+}
